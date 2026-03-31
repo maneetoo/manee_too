@@ -62,6 +62,7 @@ const manee_too = {
 
 ---
 
+## Recent Activity:
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v1.0.0](https://github.com/maneetoo/Buffer/releases/tag/v1.0.0) in [maneetoo/Buffer](https://github.com/maneetoo/Buffer)
 <!--END_SECTION:activity-->
