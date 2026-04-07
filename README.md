@@ -57,6 +57,12 @@ const manee_too = {
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=maneetoo&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats-gray-eight-32.vercel.app/api/top-langs/?username=maneetoo&layout=compact&exclude_repo=tree-sitter-luau,github-readme-stats&hide" />
+</p>
+
+
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maneetoo/maneetoo/refs/heads/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maneetoo/maneetoo/refs/heads/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/maneetoo/maneetoo/refs/heads/output/github-contribution-grid-snake.svg" /> </picture> </div>
 </div>
 
@@ -71,4 +77,3 @@ const manee_too = {
 
 
 ---
-![Top Languages](https://github-readme-stats-gray-eight-32.vercel.app/api/top-langs/?username=maneetoo&layout=compact&exclude_repo=tree-sitter-luau,github-readme-stats&hide)
