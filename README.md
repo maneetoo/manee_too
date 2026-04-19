@@ -70,7 +70,7 @@ const manee_too = {
 
 ## Recent Activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/maneetoo/Roblox-OSS-Badges/releases/tag/v1.0.1) in [maneetoo/Roblox-OSS-Badges](https://github.com/maneetoo/Roblox-OSS-Badges)
+1. 🚀 Published release [v1.1.0](https://github.com/maneetoo/Roblox-OSS-Badges/releases/tag/v1.1.0) in [maneetoo/Roblox-OSS-Badges](https://github.com/maneetoo/Roblox-OSS-Badges)
 <!--END_SECTION:activity-->
 
 <!-- STATS_UPDATED: -->
@@ -124,3 +124,4 @@ const manee_too = {
 <!-- STATS_UPDATED: 2026-04-18 07:13:21 UTC -->
 <!-- STATS_UPDATED: 2026-04-18 13:08:20 UTC -->
 <!-- STATS_UPDATED: 2026-04-18 18:55:48 UTC -->
+<!-- STATS_UPDATED: 2026-04-19 02:56:58 UTC -->
